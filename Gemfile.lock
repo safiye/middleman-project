@@ -98,5 +98,6 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 3.1.5)
   middleman-livereload (~> 3.1.0)
+  multi_json (~> 1.8.0)
   ruby18_source_location
   wdm (~> 0.1.0)
